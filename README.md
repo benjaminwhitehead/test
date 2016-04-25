@@ -13,6 +13,9 @@ Okay one more.
 
 change to branch.
 
-change to master?
 
+<<<<<<< HEAD
 another change to master.
+=======
+branch4
+>>>>>>> origin/master
