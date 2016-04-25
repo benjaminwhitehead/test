@@ -9,8 +9,3 @@ First Edit
 
 Second Edit
 
-
-First Edit
-
-Second Edit
-
